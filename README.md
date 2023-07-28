@@ -13,7 +13,7 @@ Foundation. I make continual open source contributions, e.g. this recent drive-b
 for static web site generator Nikola, or
 [this page of ModernGL docs](https://moderngl.readthedocs.io/en/latest/topics/buffer_format.html),
 which I created from scratch to help me understand a fiddly API concept, using plain
-language but without skirting details.\
+language but without skirting details.
 
 I consult and mentor in Test-Driven Development (TDD), favoring the "London
 School" and "double loop" variants, when appropriate. I was tech reviewer on O'Reilly's
