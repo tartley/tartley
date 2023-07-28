@@ -22,6 +22,6 @@ published on testing
 [in Python Magazine](https://www.tartley.com/posts/acceptance-testing-net-applications-using-ironpython),
 and landed modest CPython patches [in unitttest](https://github.com/python/cpython/commit/1341bb0019868345bab8adff94263c81e1d66eae).
 
-I believe in forging great team spirit and raising morale by building radically compassionate and jovial
-relationships, taking pride in our humane treatment of one another, and in our raised expectations of what we
+I believe in forging great team spirit and raising morale by building radically jovial relationships,
+taking pride in our humane treatment of one another, and in our raised expectations of what we
 become capable of as a group. Great teams create great individuals, not the other way around.
