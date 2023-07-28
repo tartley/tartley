@@ -22,5 +22,5 @@ published on testing
 [in Python Magazine](https://www.tartley.com/posts/acceptance-testing-net-applications-using-ironpython),
 and landed modest CPython patches [in unitttest](https://github.com/python/cpython/commit/1341bb0019868345bab8adff94263c81e1d66eae).
 
-I radically jovial relationships, taking pride in our humane treatment of one another, and real talk.
+I believe in radically jovial relationships, taking pride in our humane treatment of one another, and real talk.
 Great teams create great individuals, not the other way around.
